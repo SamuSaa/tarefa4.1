@@ -1,0 +1,18 @@
+* {
+    margin: 10;
+    padding: 5;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(231, 169, 93);
+}
+
+footer {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    border-top: 2px solid #e3e3e3;
+    margin-top: 270px;
+}

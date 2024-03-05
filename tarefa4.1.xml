@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Deporte Vario</title>
+            <link>https://informatedeportivamente.com</link>
+            <description>El lugar adecuado para informarte de tus deportes y eventos deportivos favoritos.</description>
+            <copyright>CC0 BY</copyright>
+
+        <item>
+            <title>Fútbol</title>
+            <link>https://diariofutbolistico.com</link>
+            <description>Aquí te enteraras de todas las noticias futbolísticas diarias.</description>
+            <author>Samuel Saavedra</author>
+            <pubDate>Fri, 9 Feb 2024 11:24:00 GMT+2</pubDate>
+        </item>
+
+        <item>
+            <title>Baloncesto</title>
+            <link>https://diariobasketballista.com</link>
+            <description>Aquí te enteraras de todas las noticias sobre baloncesto diarias.</description>
+            <author>Samuel Saavedra</author>
+            <pubDate>Fri, 9 Feb 2024 11:30:00 GMT+2</pubDate>
+        </item>
+
+        <item>
+            <title>Fútbol Americano</title>
+            <link>https://diariofootball.com</link>
+            <description>Aquí te enteraras de todas las noticias sobre NFL y fútbol americano diarias.</description>
+            <author>Samuel Saavedra</author>
+            <pubDate>Fri, 9 Feb 2024 11:33:00 GMT+2</pubDate>
+        </item>
+
+
+</channel>
+</rss>
